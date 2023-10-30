@@ -2,9 +2,6 @@
 
 ------------------
 
-> TheMystic-Bot-MD pasa a quedar en manos de colaboradores, y como principal representante Aiden_NotLogic
-------------------
-
 ### `—◉ 🔗 CUENTAS OFICIALES 🔗`
 
 *https://instagram.com/alesytabot.md?igshid=OGQ5ZDc2ODk2ZA==
@@ -25,7 +22,7 @@
   
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/Alesytabot-MD)](https://repl.it/github/Alesytabot-MD/Alesytabot-MD) 
+[![Run on Repl.it](https://repl.it/badge/github/Alesyta/Alesytabot-MD)](https://repl.it/github/Alesytabot-MD/Alesytabot-MD) 
   
 ### `—◉ 🔰 ACTIVAR EN RENDER 🔰`
 
@@ -74,7 +71,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mystic-termux $  
+- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Alesyta-termux $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
@@ -141,6 +138,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
 
 ## `EDITOR & PROPIETARIO DEL BOT` 
-<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="BrunoSobrino"/></a>
+<a href="https://github.com/Alesyta"><img src="https://github.com/Alesyta.png" width="250" height="250" alt="Alesyta"/></a>
   
 `Alesytabot-MD - By Alesyta`
