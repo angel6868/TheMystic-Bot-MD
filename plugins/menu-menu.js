@@ -540,6 +540,7 @@ ${readMore}
 ┣👑 _${usedPrefix}delcmd *<responder a sticker/imagen con comando o texto asignado>*_
 ┣👑 _${usedPrefix}saveimage
 ┣👑 _${usedPrefix}viewimage
+┣👑𝐀𝐃𝐑𝐈𝐄𝐋𝐁𝐎𝐓-𝐌𝐃
 ┗━━━━━━━━━━━━━━━━┛`.trim();
     if (m.isGroup) {
       // await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
