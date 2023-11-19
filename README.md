@@ -43,7 +43,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Alesita/Alesytabot-MD.git && cd Alesytabot-MD
+git clone https://github.com/Angeldzn/Adriel-Bot-MD.git && cd AdrielBot-MD
 ```
 
 ```bash
@@ -70,7 +70,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Alesyta-termux
+> cd Adriel-termux
 > npm start
 ```
 
@@ -79,8 +79,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Alesyta-termux
-> rm -rf AlesytaSession
+> cd Adriel-termux
+> rm -rf AdrielSession
 > npm start
 ```
 
